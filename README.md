@@ -1,4 +1,5 @@
-kscroll
-=======
+## kscroll
 
-基于KISSY的滚动条组件
+* 版本：1.1
+
+
