@@ -1,6 +1,6 @@
 {
     "name": "kscroll",
-    "version": "1.1",
+    "version": "1.2",
     "desc": "基于KISSY的滚动条组件。支持滚轮、拖拽、上下箭头加速滚动。样式可定制，支持hover,active两种状态。自适应内容区大小调整。",
     "cover": "http://img02.taobaocdn.com/tps/i2/T15yeRXuxfXXab6Ooc-282-232.jpg",
     "author": {
