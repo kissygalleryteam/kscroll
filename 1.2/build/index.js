@@ -1,7 +1,7 @@
 /*
 combined files : 
 
-gallery/kscroll/1.1/index
+gallery/kscroll/1.2/index
 
 */
 /**
@@ -9,7 +9,7 @@ gallery/kscroll/1.1/index
  * @author satans17<satans17@gmail.com>
  * @module kscroll
  **/
-KISSY.add('gallery/kscroll/1.1/index',function (S, Node,Base) {
+KISSY.add('gallery/kscroll/1.2/index',function (S, Node,Base) {
     var $ = Node.all,
 
         //正数
