@@ -29,16 +29,7 @@ KISSY.config({
 
 kissy1.3就不需要该配置。
 
-### 1.加载Calendar模块
-
-```
-KISSY.use('gallery/calendar/1.1/kscroll', function(S, Kscroll) {
-
-});
-```
-**提醒**：use()的回调，第一个参数是KISSY，第二个参数才是组件实例。
-
-### 2.Kscroll
+### 1.加载 Kscroll
 
 ```
 KISSY.use('gallery/kscroll/1.1/index', function(S, Kscroll) {
