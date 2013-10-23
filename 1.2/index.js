@@ -234,6 +234,7 @@ KISSY.add(function (S, Node,Base) {
                     //最下面
                     if (position > t) {
                         position = t;
+                        self.fire("bottom");
                     }
 
 
@@ -499,6 +500,7 @@ KISSY.add(function (S, Node,Base) {
             }
             if (toPositive(position) > t) {
                 position = -t;
+                self.fire("bottom");
             }
             body.css("top", position);
         },
